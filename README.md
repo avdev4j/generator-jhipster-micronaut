@@ -18,7 +18,7 @@ It is based on JHipster Blueprint 🔵, and intends to replace the Spring Boot p
 
 ## Installation and Usage
 
-1. Install MHipster
+1. Install MHipster.
     + `npm install -g generator-jhipster-micronaut`
 2. Create a new folder for your application
 3. Start MHipster
